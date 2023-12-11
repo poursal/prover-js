@@ -1,0 +1,25 @@
+{
+  "name": "prover",
+  "version": "1.0.0",
+  "description": "A reference library for building JS apps using the Prover documentation.",
+  "keywords": [
+    "prover",
+    "proof of work",
+    "crypto",
+    "secure"
+  ],
+  "main": "src/prover.js",
+  "homepage": "https://github.com/poursal/prover-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poursal/prover-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prover/prover-js/issues"
+  },
+  "author": "Vassilis Poursalidis",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
