@@ -1,6 +1,6 @@
 {
   "name": "prover",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A reference library for building JS apps using the Prover documentation.",
   "keywords": [
     "prover",
